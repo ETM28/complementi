@@ -1,8 +1,8 @@
 
-class HelloWorld
+class Ciaomondo
  {
      public static void main(String[] args)
      {
-         System.out.println("Hello World");
+         System.out.println("Ciao mondo da Emanuele Tetti Menichelli oggi è 11-04-2015");
      }
  }
